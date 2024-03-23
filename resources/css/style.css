@@ -242,6 +242,7 @@ header .mobile {
 @media only screen and (max-width: 450px) {
   #sign-up-section {
     height: 20rem;
+    min-width: 720px;
   }
 
   #sign-up-cta h1 {
@@ -250,6 +251,22 @@ header .mobile {
 
   #sign-up-cta h2 {
     font-size: 2rem;
+  }
+
+  #features-section {
+    min-width: 720px;
+  }
+
+  #filters-section {
+    min-width: 720px;
+  }
+
+  #quotes-section {
+    min-width: 720px;
+  }
+
+  footer {
+    min-width: 720px;
   }
 }
 
