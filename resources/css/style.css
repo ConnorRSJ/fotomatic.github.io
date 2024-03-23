@@ -195,7 +195,7 @@ header .mobile {
     align-items: center;
     justify-content: center;
     height: 28rem;
-    min-width: 550px;
+    min-width: 565px;
   }
 
   #sign-up-cta {
@@ -223,19 +223,19 @@ header .mobile {
   }
 
   #features-section {
-    min-width: 550px;
+    min-width: 565px;
   }
 
   #filters-section {
-    min-width: 550px;
+    min-width: 565px;
   }
 
   #quotes-section {
-    min-width: 550px;
+    min-width: 565px;
   }
 
   footer {
-    min-width: 550px;
+    min-width: 565px;
   }
 }
 
